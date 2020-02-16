@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#315869</color>
+    <color name="colorAccent">#75d6ff</color>
+    <color name="darkGray">#284957</color>
+    <color name="pressColor">#606060</color>
+    <color name="bookmarkColor">#B3B3B3</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+</resources>
